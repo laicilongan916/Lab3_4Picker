@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EPF IE Calculator</string>
+    <string name="Account_1_Balance">Account One Balance</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+    <string name="Date_of_Birth">Select Date of Birth</string>
+    <string name="EligibleAmt">Eligible Amount</string>
+    <string name="Age">Age</string>
+    <string name="Date">Date</string>
+    <string name="Not_Eligible">You are not eligible to withdraw.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
